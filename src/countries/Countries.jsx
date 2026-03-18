@@ -8,7 +8,7 @@ const Countries = ({ countryPromise }) => {
 const countriesStyle = {
     display: 'grid',
     gridTemplateColumns: 'repeat(3, 1fr)',
-    gap: '15px'
+    // gap: '15px'
 }
 
 return (
